@@ -1,0 +1,8 @@
+__*
+/Debug
+/Release
+/Doc
+*.zip
+*.local
+*.exe
+*.res
